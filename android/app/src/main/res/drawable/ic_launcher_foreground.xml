@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- دائرة بيضاء مركزية -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C74.435,20 91,36.565 91,57 C91,77.435 74.435,94 54,94 C33.565,94 17,77.435 17,57 C17,36.565 33.565,20 54,20 Z"/>
+    <!-- الحرف الأول باللون الرئيسي -->
+    <text
+        android:x="54"
+        android:y="75"
+        android:textSize="52"
+        android:fillColor="#1a73e8"
+        android:fontFamily="sans-serif-medium"
+        android:textAlignment="center">W</text>
+</vector>
